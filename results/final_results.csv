@@ -1,0 +1,6 @@
+trial,response_ms,motor_variance,pitch_variation,pause_duration,speech_rate,reaction_time_ms,motor_score,speech_score,reaction_score,neuro_risk_index,risk_level
+1,72.25,0.15,0.28,0.55,125,330,85,88.8,81.25,85.0,LOW
+2,29.07,0.22,0.36,0.75,140,410,75.66666666666667,85.6,71.25,77.3,MODERATE
+3,18.44,0.29,0.44,0.95,155,490,66.33333333333334,80.2,61.25,69.0,MODERATE
+4,16.36,0.36,0.52,1.15,170,570,56.0,72.5,57.2,61.3,MODERATE
+5,28.25,0.43,0.6,1.35,185,650,51.33333333333333,64.0,54.0,55.9,HIGH

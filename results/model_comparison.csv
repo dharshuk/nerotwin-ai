@@ -1,0 +1,2 @@
+status,reason
+"not_applicable","No clinically labelled dataset or trained classifier is available in the current project. Real modality comparison and classification metrics cannot be computed without valid ground-truth labels."
